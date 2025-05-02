@@ -13,18 +13,18 @@ Welcome to the **Calculator Project**! This simple Java-based calculator allows 
 
 ### Prerequisites
 - Ensure that you have **Java Development Kit (JDK)** installed on your computer. You can check your Java version with:
-    java -version
+    **java -version**
 
 ### Running the program
 1. Clone this repository to your local machine :
     
-   git clone https://github.com/mpumelelomsane/Calculator-project.git
+   **git clone https://github.com/mpumelelomsane/Calculator-project.git**
 
-2. Navigate to the project directory :   cd Calculator-project
+2. Navigate to the project directory :   **cd Calculator-project**
 
-3. Compile the program using javac :  javac Calculator.java
+3. Compile the program using javac :  **javac Calculator.java**
 
-4. Run the program :  java Calculator
+4. Run the program :  **java Calculator**
 
 ### Usage instructions 
 
@@ -49,7 +49,7 @@ Enter the second number: 15
 The result of addition is: 40.0
 
 ### Technologies used:
--**Java**: Programming language for the application.
+- **Java**: Programming language for the application.
 
 ### Future Enhancements
 1. Add support for more complex operations like square roots, exponentiation, and trigonometric functions.
@@ -60,9 +60,9 @@ The result of addition is: 40.0
 Contributions are welcome! If you'd like to contribute to this project:
 
 1. Fork this repository.
-2. Create a new branch for your feature or bug fix :  git checkout -b feature-name
-3. Commit your changes : git commit -m "Description of changes"
-4. Push to your branch : git push origin feature-name
+2. Create a new branch for your feature or bug fix :  **git checkout -b feature-name**
+3. Commit your changes : **git commit -m "Description of changes"**
+4. Push to your branch : **git push origin feature-name**
 5. Open a pull request.
 
 ### Contact
