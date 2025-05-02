@@ -20,17 +20,11 @@ Welcome to the **Calculator Project**! This simple Java-based calculator allows 
     
    git clone https://github.com/mpumelelomsane/Calculator-project.git
 
-2. Navigate to the project directory :
-   
-  cd Calculator-project
+2. Navigate to the project directory :   cd Calculator-project
 
-3. Compile the program using javac :
+3. Compile the program using javac :  javac Calculator.java
 
-  javac Calculator.java
-
-4. Run the program :
-
-   java Calculator
+4. Run the program :  java Calculator
 
 ### Usage instructions 
 
@@ -66,17 +60,10 @@ The result of addition is: 40.0
 Contributions are welcome! If you'd like to contribute to this project:
 
 1. Fork this repository.
-2. Create a new branch for your feature or bug fix:
-
-git checkout -b feature-name
-3. Commit your changes:
-
-git commit -m "Description of changes"
-4. Push to your branch:
-
-git push origin feature-name
+2. Create a new branch for your feature or bug fix :  git checkout -b feature-name
+3. Commit your changes : git commit -m "Description of changes"
+4. Push to your branch : git push origin feature-name
 5. Open a pull request.
-
 
 ### Contact
 If you have any questions or suggestions, feel free to reach out at msanempumey@gmail.com.
